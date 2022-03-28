@@ -1,4 +1,4 @@
-# 8 My SQL Learning Journey
+# My SQL Learning Journey
 
 ## Intro
 
