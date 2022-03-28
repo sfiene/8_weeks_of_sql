@@ -7,6 +7,8 @@
   - [Day 4](https://github.com/sfiene/My_SQL_Learning_Journey/tree/main/9%20Days%20of%20SQL/SQL%20Day%204)
   - [Day 5-8](https://github.com/sfiene/My_SQL_Learning_Journey/tree/main/9%20Days%20of%20SQL/SQL%20Day%205-8)
   - [Day 9](https://github.com/sfiene/My_SQL_Learning_Journey/tree/main/9%20Days%20of%20SQL/SQL%20Day%209)
+- [SQL Fundamentals](https://github.com/sfiene/My_SQL_Learning_Journey/tree/main/SQL%20Fundamentals)
+- [SQL Notes](https://github.com/sfiene/My_SQL_Learning_Journey/tree/main/SQL%20Notes)
 
 ## Intro
 
