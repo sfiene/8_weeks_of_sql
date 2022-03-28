@@ -1,3 +1,5 @@
-# 8 Weeks of SQL
+# 8 My SQL Learning Journey
 
-This is where I will be documenting my trek through becoming even better at SQL.
+## Intro
+
+There are so many options to learn SQL some free and some not. It does not matter what you pick to learn from so long as you actually learn from it.
